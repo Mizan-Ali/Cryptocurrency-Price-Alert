@@ -19,7 +19,7 @@ This script helps in timing the market and taking decisions accordingly.
 4. Go to <b>main.py</b> and run it.
 5. Enter the Crypto of your choice and set the Trigger Price.
 
-   Optional: If you want a live price chart to be displayed as well, please run "withliveplot.py" instead of "main.py" in step (4)
+Optional: If you want a live price chart to be displayed as well, please run "withliveplot.py" instead of "main.py" in step (4)
 
 ## What happens behind the scene?
 1. This script fetches the price of the crypto via the Binance API every 3 seconds.
